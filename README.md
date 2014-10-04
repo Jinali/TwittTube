@@ -7,7 +7,7 @@ TwittTube
  
 Please find the architecture overview diagram attached
 
-The web app will has 2 pages as below -
+The web app has 2 pages as below -
 1. Home page where there’s a list with the broadcasted conversations. Here it creates a new broadcast conversation by uploading a video.
 2. When you click on a conversation reply button, second page opens which lists the exchanged video messages over this conversation, it replies to a conversation by uploading a video.
 3. User is able to click on a video message and play it.
